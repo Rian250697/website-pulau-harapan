@@ -56,7 +56,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<li class=""><a href="#paketwisata">Paket Wisata Pulau Harapan</a></li>
 				<li class=""><a href="#dokumentasi">Dokumentasi</a></li>
 				<li class=""><a href="#kontak">Kontak</a></li>
-				<li class="booking"><a href="#">Book Now</a></li>
+				<li class="booking"><a href="{{route('booking.create')}}">Book Now</a></li>
 			</ul>
 		</nav>
 		<!-- //nav -->
