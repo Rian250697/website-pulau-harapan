@@ -34,3 +34,7 @@ Route::middleware('auth')->group(function() {
 		Route::delete('{id}', 'BookingController@destroy')->name('booking.destroy');
 	});
 });
+
+Route::get('/register2', function() {
+	return view('auth.register2');
+});
