@@ -1,5 +1,5 @@
 # laravel-event
-Website Pulai Harapan with Laravel
+Website Pulau Harapan with Laravel
 
 ## Installation
 
@@ -42,6 +42,7 @@ Demo Website: -.
 
 ## Authors
 Rian Hardiansyah (Frontend).
+
 Aufa Billah (Backend).
 
 ## License
